@@ -15,5 +15,13 @@
     "url": "https://github.com/alizain/artboids/issues"
   },
   "homepage": "https://github.com/alizain/artboids#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "immutable": "4.0.0-rc.9",
+    "kdbush": "^1.0.1"
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "microtime": "^2.1.7"
+  }
 }
